@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hey there!  <br><br>I’m a Software Engineer who ventured into coding as a back-end ninja and later embraced the world of front-end magic. Now, I build full-stack web experiences that (hopefully) wow users. 🌟  <br><br>💻 These days, I’m diving into cyber security—because who wouldn’t want to learn how to outsmart hackers? When I’m not coding or breaking (and fixing) things, you’ll find me gaming 🎮 or bingeing anime like a true pro. Got a favorite? Let’s chat! 🚀  <br>
 
 
